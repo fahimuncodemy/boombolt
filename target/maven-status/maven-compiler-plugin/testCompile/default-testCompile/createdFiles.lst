@@ -1,0 +1,8 @@
+com\boombolt\pageObject\MyAcc_Addresses.class
+com\boombolt\utilities\ExtentReportManager.class
+com\boombolt\testCases\TC_Register.class
+com\boombolt\pageObject\AccountRegLogPage.class
+com\boombolt\pageObject\MyAccountPage.class
+com\boombolt\testCases\BaseClass.class
+com\boombolt\pageObject\BasePage.class
+com\boombolt\pageObject\MyAcc_Billing.class
